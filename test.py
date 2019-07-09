@@ -33,6 +33,8 @@ def time_advance(rate_constants):
 """
 ----------KMC----------
 """
+
+
 # definim paramatres inicials
 t_max = 100.0
 rate_constants = np.array([1/5, 1/7, 1/4, 1/9])
